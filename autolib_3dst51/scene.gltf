@@ -3,155 +3,74 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 4,
+      "count": 2156,
       "max": [
-        10,
-        10,
-        0
+        1230.150390625,
+        1622.5421142578125,
+        751.59423828125
       ],
       "min": [
-        -10,
-        -10,
+        0,
+        0,
         0
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 48,
+      "byteOffset": 25872,
       "componentType": 5126,
-      "count": 4,
+      "count": 2156,
       "max": [
-        0,
-        0,
+        1,
+        1,
         1
       ],
       "min": [
-        0,
-        0,
-        1
+        -1,
+        -1,
+        -1
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 3,
       "componentType": 5126,
-      "count": 4,
+      "count": 2156,
       "max": [
         1,
-        0,
-        0,
-        1
-      ],
-      "min": [
         1,
-        0,
-        0,
-        1
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "componentType": 5126,
-      "count": 4,
-      "max": [
-        0.99989998340606689,
-        0.99989998340606689
-      ],
-      "min": [
-        9.9999997473787516e-05,
-        9.9999997473787516e-05
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "componentType": 5125,
-      "count": 6,
-      "max": [
-        3
-      ],
-      "min": [
-        0
-      ],
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 96,
-      "componentType": 5126,
-      "count": 52707,
-      "max": [
-        1.3027219772338867,
-        2.3906629085540771,
-        2.1447219848632812
-      ],
-      "min": [
-        -1.2282240390777588,
-        -2.4098470211029053,
-        -0.040019001811742783
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 632580,
-      "componentType": 5126,
-      "count": 52707,
-      "max": [
-        0.99999821186065674,
-        0.99997013807296753,
-        0.99999916553497314
-      ],
-      "min": [
-        -0.99999874830245972,
-        -0.99998825788497925,
-        -0.99996107816696167
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 64,
-      "componentType": 5126,
-      "count": 52707,
-      "max": [
-        0.9999728798866272,
-        0.99999547004699707,
-        0.99996209144592285,
+        1,
         1
       ],
       "min": [
-        -0.99995934963226318,
-        -0.99982589483261108,
-        -0.99999982118606567,
+        -1,
+        -1,
+        -1,
         -1
       ],
       "type": "VEC4"
     },
     {
       "bufferView": 1,
-      "byteOffset": 32,
       "componentType": 5126,
-      "count": 52707,
+      "count": 2156,
       "max": [
-        1,
-        1
+        1.9978513717651367,
+        0.99864292144775391
       ],
       "min": [
-        0,
-        0
+        0.0054726959206163883,
+        0.0017712949775159359
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
-      "byteOffset": 24,
       "componentType": 5125,
-      "count": 218301,
+      "count": 5100,
       "max": [
-        52706
+        2155
       ],
       "min": [
         0
@@ -161,42 +80,42 @@
   ],
   "asset": {
     "extras": {
-      "author": "mauricesvay (https://sketchfab.com/mauricesvay)",
-      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/models/f4eafb342ecb438ba3bff34dbd77cb46",
-      "title": "Autolib' 3DST51"
+      "author": "Milan Van Damme (https://sketchfab.com/dae_milan)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/models/01848e74eafa41d7a8d012ccff82de57",
+      "title": "Hansa Brandenburg Airplane"
     },
-    "generator": "Sketchfab-3.19.4",
+    "generator": "Sketchfab-3.18.7",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 873228,
+      "byteLength": 20400,
       "byteOffset": 0,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 421688,
-      "byteOffset": 873228,
+      "byteLength": 17248,
+      "byteOffset": 20400,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 1265064,
-      "byteOffset": 1294916,
+      "byteLength": 51744,
+      "byteOffset": 37648,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 843376,
-      "byteOffset": 2559980,
+      "byteLength": 34496,
+      "byteOffset": 89392,
       "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
@@ -204,92 +123,32 @@
   ],
   "buffers": [
     {
-      "byteLength": 3403356,
+      "byteLength": 123888,
       "uri": "scene.bin"
     }
   ],
-  "extensionsRequired": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ],
-  "extensionsUsed": [
-    "KHR_materials_pbrSpecularGlossiness"
-  ],
   "images": [
     {
-      "uri": "textures/Material_diffuse.png"
-    },
-    {
-      "uri": "textures/autolib_occlusion.png"
-    },
-    {
-      "uri": "textures/autolib_diffuse.jpg"
-    },
-    {
-      "uri": "textures/autolib_specularGlossiness.png"
+      "uri": "textures/material_0_baseColor.png"
     }
   ],
   "materials": [
     {
-      "alphaMode": "BLEND",
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            0,
-            0,
-            0,
-            1
-          ],
-          "diffuseTexture": {
-            "index": 0,
-            "texCoord": 0
-          },
-          "glossinessFactor": 0,
-          "specularFactor": [
-            0,
-            0,
-            0
-          ]
-        }
-      },
-      "name": "Material"
-    },
-    {
-      "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "extensions": {
-        "KHR_materials_pbrSpecularGlossiness": {
-          "diffuseFactor": [
-            1,
-            1,
-            1,
-            1
-          ],
-          "diffuseTexture": {
-            "index": 2,
-            "texCoord": 0
-          },
-          "glossinessFactor": 1,
-          "specularFactor": [
-            0,
-            0,
-            0
-          ],
-          "specularGlossinessTexture": {
-            "index": 3,
-            "texCoord": 0
-          }
-        }
-      },
-      "name": "autolib",
-      "occlusionTexture": {
-        "index": 1,
-        "strength": 0.20000000000000001,
-        "texCoord": 0
+      "name": "material_0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
       }
     }
   ],
@@ -305,21 +164,6 @@
           },
           "indices": 4,
           "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 6,
-            "POSITION": 5,
-            "TANGENT": 7,
-            "TEXCOORD_0": 8
-          },
-          "indices": 9,
-          "material": 1,
           "mode": 4
         }
       ]
@@ -346,17 +190,36 @@
     },
     {
       "children": [
-        3,
-        4
+        3
       ],
-      "name": "autolib-final.obj.cleaner"
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -484.62515258789062,
+        -811.27105712890625,
+        0,
+        1
+      ],
+      "name": "7c7c610f6bc5464eaf519eede407e193.obj.cleaner.materialmerger.gles"
     },
     {
-      "mesh": 0,
+      "children": [
+        4
+      ],
       "name": ""
     },
     {
-      "mesh": 1,
+      "mesh": 0,
       "name": ""
     }
   ],
@@ -381,18 +244,6 @@
     {
       "sampler": 0,
       "source": 0
-    },
-    {
-      "sampler": 0,
-      "source": 1
-    },
-    {
-      "sampler": 0,
-      "source": 2
-    },
-    {
-      "sampler": 0,
-      "source": 3
     }
   ]
 }
